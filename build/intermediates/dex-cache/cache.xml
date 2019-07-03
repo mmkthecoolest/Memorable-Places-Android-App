@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-11.0.4_58bd5655c6d97c8fa358a825ec44add80d3ebbbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-11.0.4_1f09fe3bec86a68e956e98939f785f0910379f13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-11.0.4_0ad0f46f60ac22ca12c2c5ab77cdf4263ad1f5b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-11.0.4_bdd7615638085313ef65bf4a066824c12939d6b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision-common\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-common-11.0.4_846afd4bf16f7e1a5157db3accf53d6868eddf66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_afd3cecea2794c6138d395e22e5114607c314bd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-11.0.4_9ba696fcf90f926be13875e18bfb0a19727e7b33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-11.0.4_ccf3bad65ff9da9fe38308b6b1ed4fb2ca2d32ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-11.0.4_dfaed0f8006c354aefcd3ffa62f5384fd2029105\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-25.2.0_6a8e80b179d954f8f0846160b48480c6f3d442b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-11.0.4_d77fa0de2d7925fa70ba8a0a1fc56e931c17651e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_17a719c6c227fc8567959594b925499616f65a9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-25.2.0_17120e9deef408f69750d163bad22ccee241f818\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-11.0.4_2eea83e8a2caa242ac03984c01991ee85af15ddb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-11.0.4_09bd7b0a82b04151708f3940cbbef6eb5978e4e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-11.0.4_386e0d7763785f401e24f1a34cd4500ca307de9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-11.0.4_ce94813eeefd0891287480bfdc1052866a006a13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\musta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_3195984b4daa0944c1ab03be9c2199cf3be6e4d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-11.0.4_c31d78dd90b6db7970c2325ee15389070c0a18c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-11.0.4_bf737da5ca85ed2d046bde660a67bfda27ea7504\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-11.0.4_020c86e040ec80219cfdbf5d92a5c81cdef2b6e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-11.0.4_dfd13b2fc7bf868d3dc8a82295a3fefee02db87d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-11.0.4_9395d82a3f31fba1838d45f248a1f2d6aafd6f6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-11.0.4_edafd5bee260885ca32b92ef1c7eab1a0741e3da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7a34290da6b2677f3e527c6b2ceb841caf605664">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_11028d21d05320f490a94e92ca314dfc58a9fdaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-api-phone\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-api-phone-11.0.4_81b8c1f8c7497498600eee1ed79924f345e4018f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-11.0.4_d23bf3de7f8ff145d71e1a5e14dc84b130e673ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-11.0.4_69e3a3f2bc73198ead826c3c3ea2908a600c8a1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-11.0.4_83ceb6955f48f220a7f5f1ee3059bba8b877ff5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-11.0.4_dd4f3cd64555b1622c0474f86611439eea8d396c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-11.0.4_4f1846dc88b8c3be6433bb3feff67f4a8a79c1c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-11.0.4_3190ecfa4ba72039814b7ba9735e9fc9ca7acf48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="86a6521f53c5ac9f9318feeb6bf010a9e00f49db">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_84f0cf12f021f14a1e6e8f32531eb1e3800e720d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-11.0.4_b470bc68d831bcfed9706046923cedcd2548d774\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-11.0.4_c5b23ab5c511bf4fae87e8016fd0923da422248c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-11.0.4_1586df70975f01ace7a50cc3b294c6aeec0f4310\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_00c53db22076a30ba29252138831676b5cae6125\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-11.0.4_9dcd3c6030709262690ffc3b7b2c513b6941d4a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_beaf0d6efd874b70580bdffe87642b2f752a2e63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-11.0.4_ff7be164131552537526a48c929e631d91c3af8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-11.0.4_67f6f0dc0d41da868d1464cbbefea434995c88f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-11.0.4_a00c7c8345ed19ece0be797434b0b512a5644eb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-11.0.4_8bd91b5f1fa098cedf02b173691af0517afac7fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-11.0.4_2d0ef480dfa55070f8091f1dbbc7819cea5714b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-11.0.4_80691d0f679c211354eb4f9712a0661c4df06c23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-11.0.4_ab7441226d1aa35a2c54395ae5c4adc3b48c1ff1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-11.0.4_154624eca11d4c40e095f1f5b4cbec5762bab73b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_66842a921f4912a99263a20ce91f44c78b22c92b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-11.0.4_cee57b97715cb9fb88d95372f0823d7a0d8cb80b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-11.0.4_32614a453736c623b51568ed08d9f5c0c7acb7db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_edc92ebbb27ac0e06401e598f09648fd4080adbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-11.0.4_f307099f8170b9ac32cce78b77f126cc6d0a4f9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_56c39c86181dd4b00076cade7b1a60cad5421e26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-11.0.4_3f580d938fe568e62d512b7f6242c7dcba9d10fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-11.0.4_f61cb2bf9880bc3887379ec62474000833f1e0ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-11.0.4_6d7a4ff417e686f21e12f357b549235273ae907e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-dynamic-links\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-dynamic-links-11.0.4_61f8ed89acbadd04bb1236551763353c0a3f0d84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-11.0.4_079369a97d8a8cc97963956b76480847c95bb55d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-11.0.4_508014f4ace21a6f8f051209bc2b7d435948f406\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-11.0.4_2e36ee1857ef8cdc18c67fb3a91f1a71c19aaa87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-11.0.4_32fc1680406f9dba274404f23085f5e3247d2d5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-11.0.4_2fbcd47b8b2c5507e2b1c4227d1895f88c4053aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_69696d8fb17955421a8ae6657fe5924aa5d77d16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_20936814528dcd416261899b4bf4775d1d8f4f67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\11.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="E:\Documents\Android_Studio_Stuff\MemorablePlaces\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-11.0.4_d6b5de7ae7f5f86e7fe8c8eaaf8708d64ec7b8bf\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Tue Jul 02 17:42:43 GST 2019
+base.0=E\:\\Documents\\Android_Studio_Stuff\\MemorablePlaces\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_11028d21d05320f490a94e92ca314dfc58a9fdaf
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Documents\\Android_Studio_Stuff\\MemorablePlaces\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_84f0cf12f021f14a1e6e8f32531eb1e3800e720d\\classes.dex
+base.1=E\:\\Documents\\Android_Studio_Stuff\\MemorablePlaces\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_84f0cf12f021f14a1e6e8f32531eb1e3800e720d
+file.0=E\:\\Documents\\Android_Studio_Stuff\\MemorablePlaces\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_11028d21d05320f490a94e92ca314dfc58a9fdaf\\classes.dex
