@@ -77,6 +77,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         locationListener = new LocationListener() {
             @Override
             public void onLocationChanged(Location location) {
+                /*
                 if(!startup) {
                     liveLocation = new Location(location);
                     mMap.clear();
@@ -85,6 +86,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                     mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(liveLatLng, mapZoom));
                 }
                 startup = false;
+                */
+                //disabled until needed
             }
 
             @Override
